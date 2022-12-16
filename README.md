@@ -3,9 +3,11 @@
 
 ## 💻 Tech Skills
 
-![HTML](https://img.shields.io/badge/Code-Html-red?style=flat&logo=html5&logoColor=red&color=orange)
+![HTML](https://img.shields.io/badge/Markup-HTML-orange?style=flat&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/Style-CSS-1cacec?style=flat&logo=css3&logoColor=1cacec)
+![Javascript](https://img.shields.io/badge/Code-Javascript-f4dc1c?style=flat&logo=javascript&color=f4dc1c)
+![PHP](https://img.shields.io/badge/Code-PHP-blueviolet?style=flat&logo=php&color=blueviolet)
 ![Dart](https://img.shields.io/badge/Code-Dart-red?style=flat&logo=dart&logoColor=1cbcfc&color=1cacec)
-![Javascript](https://img.shields.io/badge/Code-Javascript-red?style=flat&logo=javascript&color=f4dc1c)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-red?style=flat&logo=flutter&logoColor=1cbcfc&color=1cacec)
 ![Firebase](https://img.shields.io/badge/Tools-Firebase-red?style=flat&logo=firebase&color=fba30b)
 ![Git](https://img.shields.io/badge/Tools-Git-red?style=flat&logo=git&color=f05032)
