@@ -3,7 +3,7 @@
 
 ## 💻 Tech Skills
 
-![HTML](https://img.shields.io/badge/Code-Html-red?style=flat&logo=dart&logoColor=1cbcfc&color=1cacec)
+![HTML](https://img.shields.io/badge/Code-Html-red?style=flat&logo=html&logoColor=1cbcfc&color=orange)
 ![Dart](https://img.shields.io/badge/Code-Dart-red?style=flat&logo=dart&logoColor=1cbcfc&color=1cacec)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-red?style=flat&logo=javascript&color=f4dc1c)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-red?style=flat&logo=flutter&logoColor=1cbcfc&color=1cacec)
@@ -18,9 +18,9 @@
 
 <!--- https://github.com/anuraghazra/github-readme-stats --->
 
-![My GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=KeidsID&show_icons=true&theme=radical)
+![My GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=suntree99&show_icons=true&theme=radical)
 
-![Most used langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=keidsid.github.io&theme=radical)
+![Most used langs (Dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=KeidsID&layout=compact&hide=cmake,c%2b%2b,swift&exclude_repo=suntree99.github.io&theme=radical)
 
 <!--
 **suntree99/suntree99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
